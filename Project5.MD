@@ -27,12 +27,15 @@ read name
 
 echo "Hello, $name! Nice to meet you."
 ```
+![Alt text](<Shell Scripting/script.png>)
 
 then save your file
 
 Run the command **`sudo chmod +x script.sh`**
 
 Then run the script using this command **`./script.sh`**
+
+![Alt text](<Shell Scripting/result from script.png>)
 
 ## **DIRECTORY MANIPULATION AND NAVIGATION**
 
@@ -81,9 +84,13 @@ echo "Directory removed."
 echo "Files in the current directory:"
 ls
 ```
+![Alt text](<Shell Scripting/nagivating-linuxfile-system.png>)
+
 Run the command **`sudo chmod +x nagivating-linuxfile-system.sh`**
 
 Then run the script using this command **`./nagivating-linuxfile-system.sh`**
+
+![Alt text](<Shell Scripting/result from nagivating-linuxfile-system.png>)
 
 ## **FILE OPERATIONS AND SORTING**
 
@@ -130,12 +137,15 @@ echo "Final sorted file:"
 cat sorted_files_sorted_alphabetically.txt
 
 ```
+![Alt text](<Shell Scripting/sorting.png>)
 
 then save your file
 
 Run the command **`sudo chmod +x sorting.sh`**
 
 Then run the script using this command **`./sorting.sh`**
+
+![Alt text](<Shell Scripting/result from sorting.png>)
 
 ## **WORKING WITH NUMBER AND CALCULATIONS**
 
@@ -175,6 +185,7 @@ square_root=$(awk "BEGIN{ sqrt=$num2; print sqrt }")
 echo "Number 1 raised to the power of 2: $power_of_2"
 echo "Square root of number 2: $square_root"
 ```
+![Alt text](<Shell Scripting/calculations.png>)
 
 then save your file
 
@@ -182,11 +193,13 @@ Run the command **`sudo chmod +x calculations.sh`**
 
 Then run the script using this command **`./calculations.sh`**
 
+![Alt text](<Shell Scripting/result from calculation.png>)
+
 ## **WORKING WITH NUMBER AND CALCULATIONS**
 
 Open your terminal and create a file called backup.sh in the shell-scripting directory using this command
 
-**`backup.sh`**
+**`touch backup.sh`**
 
 use the nano or vim command to edit the file and then copy into the file these block of code below
 ```
@@ -211,6 +224,7 @@ cp -r "$source_dir"/* "$backup_dir_with_timestamp"
 # Display a message indicating the backup process is complete
 echo "Backup completed. Files copied to: $backup_dir_with_timestamp"
 ```
+![Alt text](<Shell Scripting/backup.png>)
 
 then save your file
 
@@ -218,5 +232,6 @@ Run the command **`sudo chmod +x backup.sh`**
 
 Then run the script using this command **`./backup.sh`**
 
+![Alt text](<Shell Scripting/result from backup.png>)
 
 **THANK YOU**
