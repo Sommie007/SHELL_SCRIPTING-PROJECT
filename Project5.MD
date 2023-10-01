@@ -32,7 +32,7 @@ then save your file
 
 Run the command **`sudo chmod +x script.sh`**
 
-The run the script using this command **`./script.sh`**
+Then run the script using this command **`./script.sh`**
 
 ## **DIRECTORY MANIPULATION AND NAVIGATION**
 
@@ -83,7 +83,7 @@ ls
 ```
 Run the command **`sudo chmod +x nagivating-linuxfile-system.sh`**
 
-The run the script using this command **`./nagivating-linuxfile-system.sh`**
+Then run the script using this command **`./nagivating-linuxfile-system.sh`**
 
 ## **FILE OPERATIONS AND SORTING**
 
@@ -135,7 +135,7 @@ then save your file
 
 Run the command **`sudo chmod +x sorting.sh`**
 
-The run the script using this command **`./sorting.sh`**
+Then run the script using this command **`./sorting.sh`**
 
 ## **WORKING WITH NUMBER AND CALCULATIONS**
 
@@ -180,7 +180,7 @@ then save your file
 
 Run the command **`sudo chmod +x calculations.sh`**
 
-The run the script using this command **`./calculations.sh`**
+Then run the script using this command **`./calculations.sh`**
 
 ## **WORKING WITH NUMBER AND CALCULATIONS**
 
@@ -216,7 +216,7 @@ then save your file
 
 Run the command **`sudo chmod +x backup.sh`**
 
-The run the script using this command **`./backup.sh`**
+Then run the script using this command **`./backup.sh`**
 
 
 **THANK YOU**
