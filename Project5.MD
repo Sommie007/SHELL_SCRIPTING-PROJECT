@@ -1,7 +1,7 @@
 # SHELL SCRIPTING
  ## **This project shows how to implement SHELL SCRIPTING**
 
-[Setup and Ec2 instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
+[Setup a Ec2 instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
 
  Update a list of packages in package manager
 
